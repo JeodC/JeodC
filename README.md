@@ -13,4 +13,4 @@ PortMaster is an application designed for linux handhelds with aarch64 architect
 - [GMLoader](https://github.com/JohnnyonFlame/droidports) and [GMLoader-Next](https://github.com/JohnnyonFlame/gmloader-next), which translate Game Maker bytecode to linux (with some limitations)
 - [Gl4es](https://github.com/ptitSeb/gl4es), which translates OpenGL functions and symbols to GLES (helps embedded systems)
 
-  PortMaster ports always require the end-user supply their own game data for games that are not licensed for distribution. This means games must be purchased on Steam or GOG or another supported PC platform. In other words, PortMaster supplies the ship, and end-users supply the cargo.
+PortMaster ports always require the end-user supply their own game data for games that are not licensed for distribution. This means games must be purchased on Steam or GOG or another supported PC platform. In other words, PortMaster supplies the ship, and end-users supply the cargo.
