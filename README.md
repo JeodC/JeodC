@@ -7,7 +7,7 @@
 
 #
 
-I'm a part of the [PortMaster](https://portmaster.games) community, we bring PC games to retro handhelds as ports! Most of my repositories are prefixed with `PortMaster-`. I engineer my ports in these repositories before publishing them with PortMaster. Some of my ports have required extensive modifications to the source code--most  of my forks are intended for PortMaster development.
+I'm a part of the [PortMaster](https://portmaster.games) community, we bring PC games to retro handhelds as ports!
 
 PortMaster is an application designed for linux handhelds with aarch64 architecture. Since many games aren't built for aarch64 by default, we design wrappers to help them run. We have many tools at our disposal including:
 
