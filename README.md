@@ -11,7 +11,7 @@ I bring PC games to retro handhelds as ports!
 Linux handhelds often use aarch64 architecture. Since many games aren't built for aarch64 by default, I design wrappers to help them run. I use many tools to help with this, including:
 
 - [GPtoKeyB](https://github.com/EmuELEC/gptokeyb) by EmuELEC, a Gamepad to Keyboard emulator that also supports mouse emulation.
-- [GMLoader](https://github.com/JohnnyonFlame/droidports) and [GMLoader-Next](https://github.com/JohnnyonFlame/gmloader-next) by JohnnyOnFlame, which translate Game Maker bytecode to linux (with some limitations)
+- [GMLoader](https://github.com/JohnnyonFlame/droidports) and [GMLoader-Next](https://github.com/JohnnyonFlame/gmloader-next) by JohnnyOnFlame, which translate GameMaker bytecode to linux (with some limitations)
 - [Gl4es](https://github.com/ptitSeb/gl4es) by ptitSeb, which translates OpenGL functions and symbols to GLES (helps embedded systems)
 
 My ports always require the end-user supply their own game data for games that are not licensed for distribution. This means games must be purchased on Steam or GOG or another supported PC platform. In other words, the port wrapper supplies the ship, and end-users supply the cargo.
