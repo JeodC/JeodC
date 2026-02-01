@@ -22,7 +22,3 @@ I also work with a bit of Python:
 
 - [EmulationStation Tools](https://github.com/JeodC/EmulationStation-Tools) - A collection of scripts for various use cases within the emulationstation frontend.
 - [EmulationStation ImageMaker](https://github.com/JeodC/EmulationStation-ImageMaker) - Takes several elements meant for a single image and combines them into one. Makes it easy to generate custom cover art.
-
-#
-
-Note: Some of my repositories are private as of 12/23/25.  For the forseen future, I have lost complete interest in anything to do with ports or port distribution.
